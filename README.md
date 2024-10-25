@@ -5,9 +5,11 @@ This repository contains examples and resources for automated testing using Post
 Structure
 API Testing.zip: Contains the Postman collection and environment files used for API testing.
 Selenium Automation.zip: Includes Selenium scripts for automated UI testing, along with supporting files.
+
+
 README.md: This file provides an overview of the repository contents and instructions on how to use the files.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tools Used
 1. Postman (API Testing)
 Postman is used for testing RESTful APIs. This section includes:
