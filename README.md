@@ -11,12 +11,11 @@ README.md: This file provides an overview of the repository contents and instruc
 Tools Used
 1. Postman (API Testing)
 Postman is used for testing RESTful APIs. This section includes:
-
 Postman Collection: A set of API requests to test various endpoints of the application.
 Environment Files: Configuration for different environments (e.g., local, production) for dynamic testing.
+
 2. Selenium (UI Automation)
 Selenium is used to automate web browser interaction. This section includes:
-
 Selenium Scripts: Automation scripts written to simulate user actions on the UI and validate the behavior of the application.
 Browser Drivers: WebDriver binaries are required to run the tests on different browsers.
 
