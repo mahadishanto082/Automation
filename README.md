@@ -27,6 +27,7 @@ Import the Postman collection and environment files into Postman.
 Run the collection to execute the API tests.
 Selenium (UI Automation)
 Download the Selenium Automation.zip file and extract its contents.
+
 Ensure that you have the necessary WebDriver installed (e.g., ChromeDriver, GeckoDriver).
 Open the project in your IDE (e.g., Visual Studio Code, IntelliJ IDEA).
 Run the Selenium scripts to perform the automated UI tests.
