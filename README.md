@@ -1,4 +1,5 @@
 Automation Testing Repository
+
 This repository contains examples and resources for automated testing using Postman for API testing and Selenium for UI testing. These tests are designed to demonstrate end-to-end functionality and integration of different testing tools.
 
 Structure
