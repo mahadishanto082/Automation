@@ -9,6 +9,7 @@ Tools Used
 1. Postman (API Testing)
 Postman is used for testing RESTful APIs. This section includes:
 
+
 Postman Collection: A set of API requests to test various endpoints of the application.
 Environment Files: Configuration for different environments (e.g., local, production) for dynamic testing.
 2. Selenium (UI Automation)
