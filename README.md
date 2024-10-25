@@ -31,8 +31,10 @@ Download the Selenium Automation.zip file and extract its contents.
 Ensure that you have the necessary WebDriver installed (e.g., ChromeDriver, GeckoDriver).
 Open the project in your IDE (e.g., Visual Studio Code, IntelliJ IDEA).
 Run the Selenium scripts to perform the automated UI tests.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Requirements
+Requirements:
+
 Postman: Make sure you have Postman installed to run the API tests.
 Selenium WebDriver: Download and configure the appropriate WebDriver for your browser.
 Java: If the Selenium scripts are in Java, ensure that you have JDK installed and configured in your system.
